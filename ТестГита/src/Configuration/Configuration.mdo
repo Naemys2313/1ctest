@@ -40,5 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ</documents>
 </mdclass:Configuration>
