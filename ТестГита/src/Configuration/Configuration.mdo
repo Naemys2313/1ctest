@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.Справочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ</documents>
